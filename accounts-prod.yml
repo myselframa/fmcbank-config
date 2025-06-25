@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to FMCBank accounts related docker APIs "
+  message: "Welcome to FMCBank accounts related doc APIs "
   contactDetails:
     name: "RamaccountsProd - Product Owner"
     email: "{cipher}c74bf4753e121f1e49e9016a423268ae8a3488bedd2a4455c392671ef59562e8fee8d866de245d19b1740522e66dc313"
